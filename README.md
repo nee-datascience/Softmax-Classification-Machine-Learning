@@ -16,6 +16,9 @@ We will have to implement an algorithm to predict the correct label based on the
 # Overview
 
 Step 1: Getting the desired data from the raw data
+
 Step 2: Training the model based on the training data we got from Step 1
+
 Step 3: Predicting and testing accuracy based on the trained model from Step 2
+
 Step 4: Using the sklearn library to evaluate the accuracy at which sklearn performs.
